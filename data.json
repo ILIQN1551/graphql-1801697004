@@ -1,0 +1,58 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "fname": "iliqn ",
+      "lname": "tsinov",
+      "phone": "+359-88-831-231",
+      "email": "iliqn1551@abv.bg",
+      "city": "Plovdiv",
+      "education": "STD"
+    },
+    {
+      "id": 2,
+      "fname": "Stefan ",
+      "lname": "Stefanov",
+      "phone": "+359-89-321-231",
+      "email": "stefan1512@abv.bg",
+      "city": "Sofia",
+      "education": "STD"
+    },
+    {
+      "id": 3,
+      "fname": "Tanq ",
+      "lname": "Trakova",
+      "phone": "+359-79-331-251",
+      "email": "tancheto@abv.bg",
+      "city": "Plovdiv",
+      "education": "BIT"
+    },
+    {
+      "id": 4,
+      "fname": "Ivan ",
+      "lname": "Andreev",
+      "phone": "+359-99-521-421",
+      "email": "vankata53@abv.bg",
+      "city": "Haskovo",
+      "education": "Informatic"
+    },
+    {
+      "fname": "plamen ",
+      "lname": "Rumenov",
+      "phone": "+359-45-521-421",
+      "email": "testsAabv.bg",
+      "city": "Varna",
+      "education": "IT",
+      "id": 6
+    },
+    {
+      "fname": "tester",
+      "lname": "Testov",
+      "phone": "+359-00-000-999",
+      "email": "tester@abv.bg",
+      "city": "test",
+      "education": "Tester",
+      "id": 7
+    }
+  ]
+}
